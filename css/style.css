@@ -546,7 +546,6 @@ p {
   opacity: 0;
   position: relative;
   overflow: hidden;
-  cursor: pointer;
 }
 
 #portfolio-grid li:hover .project-overlay {
