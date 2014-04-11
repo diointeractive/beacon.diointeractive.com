@@ -403,6 +403,23 @@ p {
   overflow: hidden;
 }
 
+
+#numbers p{
+  color: #fff;
+  size: 36px;
+}
+
+#numbers .spec{
+  color: #fff;
+  font-size: 36px;
+}
+
+#numbers .measure{
+  color: #ccc;
+  font-size: 18px;
+}
+
+
 #numbers h4 {
   margin-bottom: 50px;
 }
