@@ -30,7 +30,6 @@ img {
 }
 
 .up {
-  text-transform: uppercase;
 }
 
 p {
@@ -193,7 +192,6 @@ p {
 }
 
 .topnav .navbar-nav > li > a {
-  text-transform: uppercase;
   color: #999;
 }
 
@@ -442,7 +440,6 @@ p {
 }
 
 #numbers .counter small {
-  text-transform: uppercase;
   color: #ccc;
 }
 
