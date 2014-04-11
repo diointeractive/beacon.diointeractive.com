@@ -434,9 +434,7 @@ p {
 /* =Services
 -------------------------------------------------------------- */
 
-.service-text {
-  float: center;
-  font-size:15px;
+.service p {
   color:#666;
 }
 
