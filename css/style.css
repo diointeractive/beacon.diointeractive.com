@@ -213,7 +213,7 @@ p {
   font-size: 18px;
   font-weight: 300;
   text-align: center;
-  color: #666;
+  color: #888;
 }
 
 .promo-line:before, .promo-line:after {
@@ -433,6 +433,12 @@ p {
 
 /* =Services
 -------------------------------------------------------------- */
+
+.service-text {
+  float: center;
+  font-size:15px;
+  color:#666;
+}
 
 .service-box {
   float: left;
