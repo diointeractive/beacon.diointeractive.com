@@ -1077,7 +1077,7 @@ footer .social-list p {
   }
 }
 
-@media (max-width: 640px) {
+@media (max-width: 630px) {
   .home-slider .slides > li h1 {
     font-size: 33px;
   }
@@ -1097,7 +1097,7 @@ footer .social-list p {
   }
 
   .home-slider .slides > li h1{
-    font-size: 28px;
+    font-size: 30px;
   }
 }
 
