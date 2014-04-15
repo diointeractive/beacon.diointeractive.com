@@ -1091,6 +1091,16 @@ footer .social-list p {
 
 }
 
+@media (max-width: 360px) {
+  #team .col-xs-12 {
+    width: 280px;
+  }
+
+  .home-slider .slides > li h1{
+    font-size: 28px;
+  }
+}
+
 @media (max-width: 320px) {
   #team .col-xs-12 {
     width: 280px;
