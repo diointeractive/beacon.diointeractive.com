@@ -26,7 +26,11 @@ img {
 }
 
 .grey {
-  color: #999;
+  color: #ccc;
+}
+
+.small {
+  font-size: 12px;
 }
 
 .up {
